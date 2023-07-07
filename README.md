@@ -15,8 +15,8 @@ My portfolio This portfolio  created using html,css,javascript and Bootstrap.In 
 
   
   
-  # Deployed Link :-
-   [ https://sameerbhavar.github.io/](https://irwansyahagam.github.io/portofolio/)https://irwansyahagam.github.io/portofolio/
+  # Deployed Link :- 
+  https://irwansyahagam.github.io/portofolio/
     
   
 
