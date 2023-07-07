@@ -1,5 +1,5 @@
-# Sameer Bhavar Portfolio
-<!-- sameer bhavar Portfolio -->
+# Irwansyah Portfolio
+<!-- IrwansyahPortfolio -->
 
 My portfolio This portfolio  created using html,css,javascript and Bootstrap.In this portfolio I added my projects my tech skill
   
@@ -8,18 +8,15 @@ My portfolio This portfolio  created using html,css,javascript and Bootstrap.In 
     HTML 5, CSS, JavaScript and Bootstrap
     
   ## Team Members :-
-  - Sameer Bhavar
+  - Irwansyah
  
   
-  ## Clone Snaps :-
-  ![github landing](https://user-images.githubusercontent.com/50591381/192941496-89e0c422-9f4c-44ee-b1af-c36cd012ca19.PNG)
-
-  
+  ## Clone Snaps :- 
 
   
   
   # Deployed Link :-
-    https://sameerbhavar.github.io/
+   [ https://sameerbhavar.github.io/](https://irwansyahagam.github.io/portofolio/)https://irwansyahagam.github.io/portofolio/
     
   
 
